@@ -1,0 +1,6 @@
+@RaceDay.api_HostAddress = http://localhost:5165
+
+GET {{RaceDay.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
